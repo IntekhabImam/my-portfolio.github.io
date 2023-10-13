@@ -18,13 +18,13 @@ ScrollReveal().reveal('.title', { delay: 300,origin:"left" });
 
 ScrollReveal().reveal(' .section__text__p2', { delay: 300,origin:"right" });
 
-ScrollReveal().reveal('#profile, .section__pic-container', { delay: 300,origin:"bottom" });
+// ScrollReveal().reveal('#profile, .section__pic-container', { delay: 300,origin:"bottom" });
 
 ScrollReveal().reveal('.btn-container,.btn btn-color-2', { delay: 300,origin:"left" });
 
 ScrollReveal().reveal('.btn-container,.btn btn-color-1', { delay: 300,origin:"left" });
 
-ScrollReveal().reveal('.about-containers,.details-container', { delay: 300,origin:"right" });
+// ScrollReveal().reveal('.about-containers,.details-container', { delay: 300,origin:"right" });
 
 
 ScrollReveal().reveal('.desktop-nav,.logo,.nav-links', { delay: 200,origin:"top" });
